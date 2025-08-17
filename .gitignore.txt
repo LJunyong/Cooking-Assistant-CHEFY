@@ -1,2 +1,3 @@
-*.html linguist-detectable=false
-*.py linguist-detectable=true
+bin/ffplay.exe
+bin/ffmpeg.exe
+bin/ffprobe.exe
