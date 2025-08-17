@@ -1,5 +1,2 @@
-bin/ffplay.exe
-bin/ffmpeg.exe
-bin/ffprobe.exe
 *.html linguist-detectable=false
 *.py linguist-detectable=true
